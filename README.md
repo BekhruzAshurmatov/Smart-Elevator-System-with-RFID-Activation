@@ -2,13 +2,6 @@
 
 ## In this project, we will explore a smart elevator system with a unique feature: floor access restoration. This system utilizes the ESP32 microcontroller and a web interface to provide convenient elevator control while addressing specific floor access limitations.
 
-![](https://github.com/Su13043/Smart-Elevator-System-with-Floor-Access-Restoration/assets/145110827/22f7df65-0f67-41a2-88b2-b6b9cd352903)
-
-+ Conventional elevator systems provide access to all floors.
-+ In some scenarios, access to certain floors might be restricted due to maintenance, security concerns, or other reasons.
-+ This can cause inconvenience for users who need to reach those floors.
-### This picture addresses a situation where a standard elevator system requires restricted access to specific floors. This could be due to maintenance work on those floors, security protocols, or other reasons. A conventional system would require users to use alternative means to reach the restricted floors, causing inconvenience.
-
 ![](https://github.com/Su13043/Smart-Elevator-System-with-Floor-Access-Restoration/assets/145110827/3a0d6a62-2675-4556-afd8-a7809ca33d45)
 
 + *This project introduces a smart elevator system that offers several functionalities:*
