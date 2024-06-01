@@ -224,4 +224,3 @@ If you take a look at the Serial Monitor, you can see what’s happening on the 
 
 ![](https://github.com/Su13043/Smart-Elevator-System-with-Floor-Access-Restoration/assets/145110827/092d6507-915f-4fc2-b7fc-be3e3e42fd9f)
 
-[Link](https://github.com/Su13043/Smart-Elevator-System-with-Floor-Access-Restoration)
