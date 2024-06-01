@@ -223,3 +223,5 @@ If you take a look at the Serial Monitor, you can see what’s happening on the 
 ### This slide illustrates the system's functionality. When a user requests a floor through the web interface, the ESP32 verifies if access to that floor is permitted. Based on the access control logic, the ESP32 instructs the elevator control system to move the elevator to the desired floor or skip it if restricted. The web interface provides feedback to the user accordingly.
 
 ![](https://github.com/Su13043/Smart-Elevator-System-with-Floor-Access-Restoration/assets/145110827/092d6507-915f-4fc2-b7fc-be3e3e42fd9f)
+
+[Link](https://github.com/Su13043/Smart-Elevator-System-with-Floor-Access-Restoration)
