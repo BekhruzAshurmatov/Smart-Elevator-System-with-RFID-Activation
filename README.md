@@ -1,6 +1,5 @@
 # Smart Elevator - Web Server
 
-[Link](https://github.com/Su13043/Smart-Elevator-System-with-Floor-Access-Restoration)
 
 ## In this project, we will explore a smart elevator system with a unique feature: RFID Activation. This system utilizes the ESP32 microcontroller and a web interface to provide convenient elevator control while addressing specific floor access limitations.
 
