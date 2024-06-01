@@ -2,15 +2,13 @@
 
 ## In this project, we will explore a smart elevator system with a unique feature: floor access restoration. This system utilizes the ESP32 microcontroller and a web interface to provide convenient elevator control while addressing specific floor access limitations.
 
-![](https://github.com/Su13043/Smart-Elevator-System-with-Floor-Access-Restoration/assets/145110827/3a0d6a62-2675-4556-afd8-a7809ca33d45)
-
 + *This project introduces a smart elevator system that offers several functionalities:*
   + Users can call the elevator and select their desired floor using a web interface accessible from a smartphone or any web browser device.
   + The system implements access control logic to restrict calls to specific floors (e.g., under maintenance or security restrictions).
   + Despite access limitations, the system prioritizes restoring access to previously restricted floors once conditions permit.
 ### Our proposed solution addresses the challenge of restricted floor access in an elevator system. It leverages a web interface for user convenience and integrates access control to enforce limitations. Importantly, the system offers the flexibility to restore access to previously restricted floors when necessary.
 
-![](https://github.com/Su13043/Smart-Elevator-System-with-Floor-Access-Restoration/assets/145110827/c97be801-7ebf-47ff-bd0d-b9372772ff9e)![](https://github.com/Su13043/Smart-Elevator-System-with-Floor-Access-Restoration/assets/145110827/a1a2aa4b-22aa-49da-9953-7035e6a7db1a)
+![](https://github.com/Su13043/Smart-Elevator-System-with-Floor-Access-Restoration/assets/145110827/a1a2aa4b-22aa-49da-9953-7035e6a7db1a)
 
 + ESP32 microcontroller: The heart of the system, responsible for processing user requests, controlling relays, and interacting with the elevator control system.
 + Web Interface: A user-friendly interface accessible via a web browser, allowing users to call the elevator and select their desired floor.
